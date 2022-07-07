@@ -1,1 +1,49 @@
 /* your code here */
+.company{
+    float: left;
+    font-size: 2rem;
+}
+i{
+    border-radius: 50%;
+}
+.logo{
+    float: right;
+}
+.bottom section{
+    margin-top: 100px;
+}
+.first-ul{
+    text-align: left;
+    margin-left: 10rem;
+    text-decoration: none;
+}
+.second-ul{
+    text-align: left;
+    margin-left: 9rem;
+}
+.third-ul{
+    text-align: left;
+    margin-left: 7.5rem;
+}
+.fourth-ul{
+    text-align: left;
+    margin-left: 9rem;
+}
+.underline{
+    text-decoration: underline;
+    text-underline-offset: 0.3em;
+}
+
+ul{
+    line-height: 200%;
+}
+.copyright{
+    float: left;
+    margin-left: 9rem;
+}
+.privacy{
+    margin-left: 55rem;
+}
+.copyright_div{
+    margin-top: 50px;
+}
